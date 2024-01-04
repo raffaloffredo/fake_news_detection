@@ -1,7 +1,7 @@
 # Fake News Detection with Neural Networks
 
 <p align="center">
-  ⚠️UNDER CONSTRUCTION ⚠️
+  ⚠️UNDER CONSTRUCTION - TO BE RELEASED ON JANUARY 9TH, 2024⚠️
 </p>
 
 <img align="center" alt="PT-BR" height="30" width="30" src="https://em-content.zobj.net/thumbs/120/whatsapp/326/flag-brazil_1f1e7-1f1f7.png"> _Clique [aqui](https://github.com/raffaloffredo/fake_news_detection_portuguese) para Português-BR_   
