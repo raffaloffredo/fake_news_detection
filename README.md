@@ -23,11 +23,26 @@
 
 ## Additional Material 
 The results obtained from this study were condensed into images to generate a straightforward presentation of what the company could achieve with the use of this tool.
+<br/>
 
 <p align="center">
-  <img src="" width="60%">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhE-Z07sbjIEX3iKVhThIP6Mm8wn5REvWL_xt9CcnTKyULDD47BcC86vuM6YpCAutnOUWNXXaXJrJ5nOaFkNvOX0CY5za3BpfAcYSBDyTZGB814kNrxtail3jWR7y7f5FUtE7d9_08-OMbJTOupmlsfw6BOorku_bfHrQ9u6Ord2YdYjw9Nm07_AYi2oGY/w640-h360/Slide1.PNG" width="60%">
 </p>
+<br/>
 
+<p align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyIX-z7CDR7LbF_WvajukalODDzU-aE_Dzj0jktSg2W1CCJ1OxAx6X2cYc1k8vdfeQfeSB0yyTgZVNE0sCIzfZ78TVEaaTkwmlW1TNCsinhGvJW3tcXl7bNmmQ_18zYmQ85nUb8JZlV0QSgGvj0xnHqGSt91bJIzaixeKWoT6D65rYmWMBzvTUKTRC-vo/w640-h360/Slide2.PNG" width="60%">
+</p>
+<br/>
+
+<p align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilg6PgUhcjKszdr9O2ziyAfAvPBW8btSqsS8KRDGjEzGNgoq8tW_QH5iUD74e04cLzX6sU8j6lJzcl5Ynihuev95sfp9hbF91GxQWXcl9Shv-698r9fJ2sW95T1WgbdHBE97fspyxE59Gp9jXv-FZ-wz2A3zptDdSMRGapEBf6QisC6NkVIYWAeyjdARs/w640-h360/Slide3.PNG" width="60%">
+</p>
+<br/>
+
+<p align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm5iXJBuB70XVXWw6v_J0ZlxTXQKU6DEm4RDt2u56N9QR7wa0nrKkhEOGwft04NDDOIFETTFZSMKfItNaIUbhPgogw3MV_s_OrAzsOwB1dW9bxhEnHXe6JlARWtCdy_qKdMz8evXuGfGFzY5iHFkSZEWKqW2EQCta_jICHIaQmRYJS9XNHSyiJeM2sMt4/w640-h360/Slide4.PNG" width="60%">
+</p>
 <br/>
 
 ## Other Projects
