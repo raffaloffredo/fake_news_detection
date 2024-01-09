@@ -1,9 +1,5 @@
 # Fake News Detection with Neural Networks
 
-<p align="center">
-  ⚠️UNDER CONSTRUCTION - TO BE RELEASED ON JANUARY 9TH, 2024⚠️
-</p>
-
 <img align="center" alt="PT-BR" height="30" width="30" src="https://em-content.zobj.net/thumbs/120/whatsapp/326/flag-brazil_1f1e7-1f1f7.png"> _Clique [aqui](https://github.com/raffaloffredo/fake_news_detection_portuguese) para Português-BR_   
 <br/>
 
@@ -16,8 +12,8 @@
 
 
 * **[Code File]()**
-* **[Full Article]()**
-* **[Summarized Article (Results)]()**
+* **[Full Article](https://medium.com/@loffredo.ds/fake-news-detection-with-neural-networks-50b7f38c5c66)**
+* **[Summarized Article (Results)](https://www.linkedin.com/pulse/building-solution-combat-fake-news-machine-learning-raffaela-loffredo-bcflf)**
 
 <br/>
 
