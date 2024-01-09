@@ -9,6 +9,9 @@
 <br/>
 
 ## About the project
+Fake news has been a recurring problem in our post-globalization era with easy access to the internet. To combat them, it is necessary to first identify them. This can be achieved using algorithms trained for this purpose.
+
+In this study, I developed a supervised machine-learning model using neural networks to detect whether a news article is reliable or not. This involved exploratory data analysis, data cleaning and preprocessing, text standardization, and the creation of word clouds to familiarize myself with the most commonly used terms in the articles. I also analyzed authors with the highest number of articles in the dataset. Next, I performed the necessary preprocessing for TensorFlow using tokenization and padding techniques. The algorithm’s construction was tailored to the problem, with a base of a stacked sequential neural network consisting of Embedding, Conv1D, GlobalMaxPool1D, and Dense layers. After feeding new data into the model, I evaluated its performance using accuracy and recall values, as well as constructing a confusion matrix.
 
 
 * **[Code File](https://github.com/raffaloffredo/fake_news_detection/blob/main/%5BLoffredoDS%5D_Fake_News_Detection_with_Neural_Networks.ipynb)**
