@@ -11,7 +11,7 @@
 ## About the project
 
 
-* **[Code File]()**
+* **[Code File](https://github.com/raffaloffredo/fake_news_detection/blob/main/%5BLoffredoDS%5D_Fake_News_Detection_with_Neural_Networks.ipynb)**
 * **[Full Article](https://medium.com/@loffredo.ds/fake-news-detection-with-neural-networks-50b7f38c5c66)**
 * **[Summarized Article (Results)](https://www.linkedin.com/pulse/building-solution-combat-fake-news-machine-learning-raffaela-loffredo-bcflf)**
 
